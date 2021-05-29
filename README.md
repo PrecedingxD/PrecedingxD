@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PrecedingxD
+- 👀 I’m interested in Minecraft coding
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on the Kira Network
+- 📫 How to reach me - Preceding#0180 on Discord
