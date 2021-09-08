@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @PrecedingxD
-- 👀 I’m interested in Minecraft coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on the Kira Network
-- 📫 How to reach me - Preceding#0180 on Discord
+Hey! My name is Nate, or you may know me as Preceding. I'm a Minecraft plugin developer currently learning Kotlin and Java. I've been using Kotlin for two months and Java for four years. Please don't expect this information to be up to date as I don't change this stuff too often!
